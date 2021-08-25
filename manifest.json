@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+    "name": "JermaGameplay",
+    "version": "1.0",
+
+    "description": "Know how much of the current Jerma video is actually gameplay",
+
+    "permissions": [
+        "activeTab"
+    ],
+
+    "browser_action": {
+        "default_icon": "icons/",
+        "default_title": "JermADHD",
+        "default_popup": "popup/popup.html"
+    }
+}
